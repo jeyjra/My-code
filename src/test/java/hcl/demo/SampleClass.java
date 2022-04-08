@@ -18,6 +18,22 @@ public class SampleClass {
 			
 		}
 	
+
+	public void method7() {
+	
+	 System.out.println("method7");	
+		
+	}
+	public void method8() {
+		
+		 System.out.println("method8");	
+			
+		}
+	public void method9() {
+		
+		 System.out.println("method9");	
+			
+		}
 	
 	
 	
